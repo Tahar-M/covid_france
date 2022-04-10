@@ -3,9 +3,7 @@ from datetime import datetime
 import altair as alt
 import streamlit as st
 import seaborn as sns
-import matplotlib.pyplot as plt
-from matplotlib import cycler
-from pandas.plotting import register_matplotlib_converters
+
 
 
 
